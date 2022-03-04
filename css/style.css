@@ -1,4 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 .container {
+    background-color: black;
     width: 960px;
     margin: auto;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+}
+h1 {
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color: violet;
 }
